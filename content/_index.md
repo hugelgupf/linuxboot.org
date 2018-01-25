@@ -35,5 +35,8 @@ functionality like the UEFI DXE phase with a Linux kernel and runtime.
 * [Heads, the slightly more secure firmware](http://osresearch.net/)
 * [NERF branch of Heads for building LinuxBoot ROMs](https://github.com/osresearch/heads/tree/nerf)
 * [Installation instructions for the Dell R630](https://trmm.net/NERF)
+
+We are currently working with Open Compute Platform hardware (specifically, Winterfell).
+
 * [Instructions for OCP Winterfell nodes](https://github.com/ggiamarchi/nerf-winterfell)
 * More detailed instructions and build tools are forthcoming for OCP nodes as well as others.
